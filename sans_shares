@@ -46,3 +46,5 @@ event smb1_tree_connect_andx_request(c: connection, hdr: SMB1::Header, path: str
         }
     }
 }
+
+}
